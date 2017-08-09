@@ -1,0 +1,289 @@
+[33mcommit fc2134136fb5e7f35cb15fa272c56ba872f0f486[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:54:07 2017 +0300
+
+    conflict resolved
+
+[33mcommit 7658dac9eacc511cfd84533fc37abfe5c8e78edb[m
+Merge: b0fc612 142c095
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:53:02 2017 +0300
+
+    conflict resolved
+
+[33mcommit 142c095d688e1518e3129d086e85531c42a4163e[m
+Merge: 29bb27e 4951756
+Author: KhBrHub <khrystyna.brukh@gmail.com>
+Date:   Wed Aug 9 17:51:17 2017 +0200
+
+    Merge branch 'master' of https://github.com/ViktoriyaRyazhska/Lv-259.JavaCore
+
+[33mcommit 29bb27e50c6698b514f48056e3b6e0609e4e37bf[m
+Merge: b58dea4 bc92fdd
+Author: KhBrHub <khrystyna.brukh@gmail.com>
+Date:   Wed Aug 9 17:49:40 2017 +0200
+
+    add 17 row
+
+[33mcommit b58dea43cd0332d7a4622d4fd93daf1d2cef1434[m
+Author: KhBrHub <khrystyna.brukh@gmail.com>
+Date:   Wed Aug 9 17:46:37 2017 +0200
+
+    add 17 row
+
+[33mcommit fb5214dba594ac44a6f2b4ab809d4b49d3a3773c[m
+Merge: 43d8717 8756eb4
+Author: KhBrHub <khrystyna.brukh@gmail.com>
+Date:   Wed Aug 9 17:38:03 2017 +0200
+
+    Merge branch 'master' of https://github.com/ViktoriyaRyazhska/Lv-259.JavaCore
+
+[33mcommit 43d87176b8178c94ffc2fb61eedcfea562708043[m
+Merge: b782a84 40fbfbc
+Author: KhBrHub <khrystyna.brukh@gmail.com>
+Date:   Wed Aug 9 17:37:40 2017 +0200
+
+    add 8 row
+
+[33mcommit b782a84e91467a0b069a21da4ebe5a11c03e96c5[m
+Author: KhBrHub <khrystyna.brukh@gmail.com>
+Date:   Wed Aug 9 17:32:01 2017 +0200
+
+    add 8 row
+
+[33mcommit b0fc6125621688249a624e4961978607bcb057b7[m
+Merge: 8a3b2a2 4951756
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:51:27 2017 +0300
+
+    Merge branch 'master' of https://github.com/ViktoriyaRyazhska/Lv-259.JavaCore
+
+[33mcommit 49517564dbd108df15693674bcbc85f4867e81e0[m
+Merge: bc92fdd 44f4eb3
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:49:32 2017 +0300
+
+    Merge branch 'Yura'
+
+[33mcommit 44f4eb3379d3699088df64054a8b275a58c8b443[m[33m ([m[1;32mYura[m[33m)[m
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:48:35 2017 +0300
+
+    Add 16 line
+
+[33mcommit 8a3b2a2e95d9cdbe4ffcb481ac4e753d93e63f62[m
+Merge: 16f4a74 bc92fdd
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:46:41 2017 +0300
+
+    Merge branch 'master' of https://github.com/ViktoriyaRyazhska/Lv-259.JavaCore
+
+[33mcommit 16f4a747311fc5f39dfb0cc9b856b16a156a0ea4[m
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:45:46 2017 +0300
+
+    added line 15
+
+[33mcommit bc92fdd072bbc204b5d212500cb68381aed5257f[m
+Merge: d8ef05f c311009
+Author: hazddda <hazddda@gmail.com>
+Date:   Wed Aug 9 17:45:41 2017 +0300
+
+    Merge branch 'master' of https://github.com/ViktoriyaRyazhska/Lv-259.JavaCore
+
+[33mcommit d8ef05fcef80118d93c8220a9dc6a6b0e98c862f[m
+Merge: 2ab4ae7 5b5273a
+Author: hazddda <hazddda@gmail.com>
+Date:   Wed Aug 9 17:45:34 2017 +0300
+
+    ff
+
+[33mcommit c31100996d2267bd5172962d34a673c55a5b03ba[m
+Merge: a159d11 4815a58
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:43:16 2017 +0300
+
+    conflict resolved
+
+[33mcommit 4815a585e4efb5c12fa2607b24095812fb912163[m
+Merge: 8cbccb8 5b5273a
+Author: av <al@mail.com>
+Date:   Wed Aug 9 17:41:48 2017 +0300
+
+    5 row
+
+[33mcommit a159d112f39da1653d9da3d15760d0025a863f05[m
+Merge: 104b666 fb5214d
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:41:46 2017 +0300
+
+    conflict resolved
+
+[33mcommit 5b5273ab831a5d8e26a77e548cf145eff897003a[m
+Merge: 9f6a25c fb5214d
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:40:42 2017 +0300
+
+    resolved conflict
+
+[33mcommit 104b6667b1e2f2e0be6d8351d00627fd64a38661[m
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:40:20 2017 +0300
+
+    resolved conflict
+
+[33mcommit 2ab4ae7cf4f4183314443078e44343e04277631a[m
+Author: hazddda <hazddda@gmail.com>
+Date:   Wed Aug 9 17:39:24 2017 +0300
+
+    dfdsf
+
+[33mcommit 9f6a25c6f0ccc772d685f82a5c6a9c0d2afc4621[m
+Merge: 392a4c6 8756eb4
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:39:15 2017 +0300
+
+    resolved conflict
+
+[33mcommit 8cbccb8df8a89a97f066182c7155690a18043a41[m
+Author: av <al@mail.com>
+Date:   Wed Aug 9 17:38:28 2017 +0300
+
+    5/1row
+
+[33mcommit 392a4c6e90a647a734daa599317e04969339ccb4[m
+Merge: ab361d7 73958c0
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:37:45 2017 +0300
+
+    resolved conflict
+
+[33mcommit 8756eb4aed972fc3e4607c728bd9928a99515696[m
+Merge: 9f0725d 73958c0
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:36:28 2017 +0300
+
+    Merge branch 'master' of https://github.com/ViktoriyaRyazhska/Lv-259.JavaCore
+
+[33mcommit ab361d7b475ddf02d9f9cf4e9ce42d1a5bde36f5[m
+Merge: 4c2ed12 40fbfbc
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:35:19 2017 +0300
+
+    resolved conflict
+
+[33mcommit 9f0725d84208128ef76f96015bca64e54818e3ba[m
+Merge: bca2761 40fbfbc
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:35:02 2017 +0300
+
+    resolved config
+
+[33mcommit 73958c03368997c882c10dd48c52f37e6ec67fe4[m
+Merge: 579b5f6 7a4763e
+Author: “Vasia <vpupkin@mail.com>
+Date:   Wed Aug 9 17:34:58 2017 +0300
+
+    Merge branch 'master' of https://github.com/ViktoriyaRyazhska/Lv-259.JavaCore
+
+[33mcommit 579b5f6edb2c234433b5f68d0312ce021f24c32e[m
+Author: “Vasia <vpupkin@mail.com>
+Date:   Wed Aug 9 17:34:45 2017 +0300
+
+    26
+
+[33mcommit 7a4763ecc830842df82a0cfb7b6ef410249aafbe[m
+Merge: 4bc937a 40fbfbc
+Author: av <al@mail.com>
+Date:   Wed Aug 9 17:33:50 2017 +0300
+
+    5 row
+
+[33mcommit bca2761ed77bc3eb78fa49059f765469556d2575[m
+Merge: 7b62965 e4aae56
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:33:26 2017 +0300
+
+    resolved conflict
+
+[33mcommit 4bc937aa8c5f2d97fcf695a98d307a521f5f598b[m
+Author: av <al@mail.com>
+Date:   Wed Aug 9 17:32:58 2017 +0300
+
+    5 row
+
+[33mcommit 4c2ed12c634d7542881c32dba2168e788b8f7193[m
+Merge: 59331d8 cb12fa6
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:31:44 2017 +0300
+
+    Merge branch 'master' of https://github.com/ViktoriyaRyazhska/Lv-259.JavaCore
+
+[33mcommit 59331d8600565ceb291de9f8ff0af3fef35ded17[m
+Merge: 0145665 e4aae56
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:31:25 2017 +0300
+
+    resolved conflict
+
+[33mcommit 40fbfbce8b91985343aac2ae323baedb57b2a129[m
+Merge: a03102d cb12fa6
+Author: hazddda <hazddda@gmail.com>
+Date:   Wed Aug 9 17:31:13 2017 +0300
+
+     sds
+
+[33mcommit a03102d615413a6064c0096460a896a60c2c167f[m
+Merge: 846487a e4aae56
+Author: hazddda <hazddda@gmail.com>
+Date:   Wed Aug 9 17:30:32 2017 +0300
+
+     sds
+
+[33mcommit cb12fa6fd05ccc86279464444b63fefb163f1040[m
+Author: “Vasia <vpupkin@mail.com>
+Date:   Wed Aug 9 17:29:34 2017 +0300
+
+    18
+
+[33mcommit 7b62965d0640dd43850db4cbc0afa74cdf9194d7[m
+Author: Vasia Pupkin <rillyder@gmail.com>
+Date:   Wed Aug 9 17:26:11 2017 +0300
+
+    Add 7 row
+
+[33mcommit 846487ac9f7a07f9c5713eadc54899b4c69cd8b5[m
+Author: hazddda <hazddda@gmail.com>
+Date:   Wed Aug 9 17:25:13 2017 +0300
+
+    Add 11 columns
+
+[33mcommit 0145665bbf67989f9e1bf03977a116756eea83cd[m
+Author: hllstrm <trueplayhard@gmail.com>
+Date:   Wed Aug 9 17:23:28 2017 +0300
+
+    added line 6
+
+[33mcommit e4aae56b64f4908ad63a9ac54daf72d6bd53e701[m
+Author: “Vasia <vpupkin@mail.com>
+Date:   Wed Aug 9 17:23:10 2017 +0300
+
+    09
+
+[33mcommit 0ff837b6ceb79bad89c0a9b18fda31cdd2f0d1c3[m
+Author: “Vasia <vpupkin@mail.com>
+Date:   Wed Aug 9 17:13:55 2017 +0300
+
+    add file
+
+[33mcommit fa92aae53e6ef85a8eaa42890e53f6add4de2411[m
+Author: vryazh <vryazhskaya@gmail.com>
+Date:   Wed Aug 9 17:06:09 2017 +0300
+
+    Update .gitignore
+
+[33mcommit 3734fde32934c784b2baf98fcfd60bb8e8041a69[m
+Author: vryazh <vryazhskaya@gmail.com>
+Date:   Wed Aug 9 17:05:14 2017 +0300
+
+    Initial commit
