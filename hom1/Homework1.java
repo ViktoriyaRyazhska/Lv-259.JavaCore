@@ -7,7 +7,6 @@ import static java.lang.Math.PI;
 
 public class Homework1 {
 
-
     public static void main(String[] args)throws Exception {
 	// write your code here
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -16,13 +15,10 @@ public class Homework1 {
         String r = reader.readLine();
         double radius = Double.parseDouble(r);
 
-
         double perimeter = 2 * PI * radius;
         double area = PI * radius*radius;
 
         System.out.println("Perimeter of flower bed equals: " + perimeter);
         System.out.println("Area of flower bed equals: " + area);
-
     }
-
 }

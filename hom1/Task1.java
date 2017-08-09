@@ -5,7 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Task1 {
-    public static void main(String[] args)throws Exception {
+
+    public static void main(String[] args) throws Exception {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
@@ -22,12 +23,11 @@ public class Task1 {
         int c = a + b;
         int d = a - b;
         int e = a * b;
-        double f = (double)a / b;
+        double f = (double) a / b;
 
         System.out.println(" a + b = " + c);
         System.out.println(" a - b = " + d);
         System.out.println(" a * b = " + e);
         System.out.println(" a / b = " + f);
-
     }
 }
