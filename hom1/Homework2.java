@@ -14,5 +14,6 @@ public class Homework2 {
         String name = reader.readLine();
         System.out.println("Where are you live, " + name + "?");
         String address = reader.readLine();
+        System.out.println(name + " live in " + address + ".");
     }
 }
