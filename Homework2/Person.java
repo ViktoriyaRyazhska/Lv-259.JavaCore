@@ -66,20 +66,13 @@ public class Person {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		Person person1=new Person();
-		person1.input();
-		Person person2=new Person();
-		person2.input();
-		Person person3=new Person();
-		person3.input();
-		Person person4=new Person();
-		person4.input();
-		Person person5=new Person();
-		person5.input();
-		person1.output();
-		person2.output();
-		person3.output();
-		person4.output();
-		person5.output();
+		Person[] person=new Person[5];
+		for (int i = 0; i < 5; i++) {
+			person[i]=new Person();
+			person[i].input();
+		}
+		for (int i = 0; i < 5; i++) {
+			person[i].output();
+		}
 	}
 }
