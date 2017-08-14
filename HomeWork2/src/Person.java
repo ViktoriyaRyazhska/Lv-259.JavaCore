@@ -29,23 +29,22 @@ public void setBirthYear(int birthYear) {
 public Person() {}
 
 public Person(String name, int birthYear) {
-	super();
 	this.name = name;
 	this.birthYear = birthYear;
 		}
 
-public int Age() throws NumberFormatException, IOException {
+public int Age() throws NumberFormatException, IOException  {
 	return Person.thisYear - this.birthYear;
 }
 	public void Input () throws IOException {
 		System.out.print("Hello, enter your Name: ");
 		this.setName(br.readLine());
-		System.out.println("Enter your birthday ");
+		System.out.println("Enter your birthyear ");
 		this.setBirthYear(Integer.parseInt(br.readLine()));
 	}
 
-	public void Output() throws NumberFormatException, IOException {
-		System.out.println("Person name: " + this.getName() + ", birthday in: " + this.getBirthYear() + ", and have: " + this.Age() + "Year");
+	public void Output() throws  {
+		System.out.println("Person name: " + this.getName() + ", birthyear in: " + this.getBirthYear() + ", and have: " + this.Age() + "Year");
 	}
 
 	public void ChangeName() throws IOException {
