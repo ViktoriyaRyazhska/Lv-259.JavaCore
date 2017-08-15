@@ -8,7 +8,6 @@ import java.util.Calendar;
 public class Person {
 	private String name;
 	private int birthYear;
-	private Calendar calendar = Calendar.getInstance();
 	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 	public Person() {
@@ -37,7 +36,7 @@ public class Person {
 	}
 
 	public void checkBirthYear() throws IOException {
-		while (this.birthYear > calendar.get(Calendar.YEAR)) {
+		while (this.birthYear > Calendar.getInstance().get(Calendar.YEAR)) {
 			System.out.print("Invalid birthday year, please retry: ");
 			this.setBirthYear(Integer.parseInt(br.readLine()));
 		}
@@ -45,7 +44,8 @@ public class Person {
 	}
 
 	public int getAge() {
-		return calendar.get(Calendar.YEAR) - this.birthYear;
+		
+		return Calendar.getInstance().get(Calendar.YEAR) - this.birthYear;
 	}
 
 	public void input() throws IOException {
