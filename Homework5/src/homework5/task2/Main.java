@@ -27,11 +27,11 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		BufferedReader reader=new BufferedReader(new InputStreamReader(System.in));
 		Employee[] employees=new Employee[5];
-//		employees[0]=new SalariedEmployee("Andrii","102312CA",20,4);
-//		employees[1]=new ContractEmployee("Max",20123,3000);
-//		employees[2]=new ContractEmployee("Joe",20124,3200);
-//		employees[3]=new SalariedEmployee("Bob","10123AS",30,4);
-//		employees[4]=new SalariedEmployee("Den","1230DA",40,4);
+		employees[0]=new SalariedEmployee();
+		employees[1]=new ContractEmployee();
+		employees[2]=new ContractEmployee();
+		employees[3]=new SalariedEmployee();
+		employees[4]=new SalariedEmployee();
 		
 		for(int i=0;i<employees.length;i++) {
 			employees[i].inputInfo(reader);
