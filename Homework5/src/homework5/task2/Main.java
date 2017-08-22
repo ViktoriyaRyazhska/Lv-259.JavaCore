@@ -9,14 +9,14 @@ public class Main {
 	
 	
 	public static Employee[] sortSalaryByDescending(Employee[] array) {
-		Employee[] temp=new Employee[1];
+		Employee temo=p;
 		System.out.println("===Sorting by salary in descending order===");
 		for(int i=0;i<array.length-1;i++) {
 			for(int j=i+1;j<array.length;j++) {
 				if(array[i].calculatePay()<array[j].calculatePay()) {
-					temp[0]=array[i];
+					temp=array[i];
 					array[i]=array[j];
-					array[j]=temp[0];
+					array[j]=temp;
 					
 				}
 			}
