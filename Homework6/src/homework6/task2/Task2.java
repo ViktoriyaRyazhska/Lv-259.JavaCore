@@ -21,7 +21,7 @@ public class Task2 {
 		personMap.put("Sekh", "Nazar");
 		personMap.put("Yunko", "Oleg");
 
-		System.out.println("===List of all students===");
+		System.out.println("===List of all students=== ");
 		for (Map.Entry<String, String> entry : personMap.entrySet()) {
 			System.out.println("Student : " + entry.getKey() + " " + entry.getValue());
 		}

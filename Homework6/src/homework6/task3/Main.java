@@ -16,7 +16,7 @@ public class Main {
 		students.add(new Student("Andrii", 5));
 		students.add(new Student("Yurii", 3));
 		students.add(new Student("Nazar", 1));
-		System.out.println("===Sorting by name===");
+		System.out.println("===Sorting by name=== ");
 
 		students.sort(new Student.NameComparator());
 

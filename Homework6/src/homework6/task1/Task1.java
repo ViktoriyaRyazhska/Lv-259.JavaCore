@@ -21,10 +21,10 @@ public class Task1 {
 
 		Set<Integer> res = new HashSet<Integer>(s1);
 		res.retainAll(s2);
-		System.out.println("Interselection = " + res);
+		System.out.println("Interselection of s1 and s2 = " + res);
 		res = s1;
 		res.addAll(s2);
-		System.out.println("Union = " + res);
+		System.out.println("Union of s1 and s2 = " + res);
 
 	}
 

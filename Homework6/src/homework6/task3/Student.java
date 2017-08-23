@@ -40,7 +40,7 @@ public class Student {
 
 	@Override
 	public String toString() {
-		return "Student name=" + this.getName() + ", course=" + this.getCourse();
+		return "Student name = " + this.getName() + ", course = " + this.getCourse();
 	}
 
 	public void printStudents(List<Student> students, Integer course) {
