@@ -17,14 +17,12 @@ public class Homework1 {
 		
 		System.out.println("-------------------------------");
 		
-		Scanner scan1 = new Scanner(System.in);
+		// Scanner scan1 = new Scanner(System.in);
 		System.out.println("Task 2:");
 		System.out.println("What is your name?");
-		String name = scan1.nextLine();
-
-		System.out.println("Where do you live, " + name + "?");
-		String address = scan1.nextLine();
-		
+		String name = scan.nextLine();
+		System.out.print("Where do you live, " + name + "?");
+		String address = scan.nextLine();
 		System.out.println("Information");
 		System.out.println("  Name: " + name);
 		System.out.println("  Address: " + address);
@@ -32,21 +30,20 @@ public class Homework1 {
 		System.out.println("-------------------------------");
 		
 		System.out.println("Task 3:");
-		Scanner scan2 = new Scanner(System.in);
+		//Scanner scan2 = new Scanner(System.in);
 		System.out.println("Enter the 1-st country");
-		String c1 = scan2.nextLine();
+		String c1 = scan.nextLine();
 		System.out.println("Enter the 2-st country");
-		String c2 = scan2.nextLine();
+		String c2 = scan.nextLine();
 		System.out.println("Enter the 3-st country");
-		String c3 = scan2.nextLine();
+		String c3 = scan.nextLine();
 		
 		System.out.println("How much time did you speak on the phone with " + c1 + "? (Input format - hh,mm)");
-		double t1 = scan2.nextDouble(); 
+		double t1 = scan.nextDouble(); 
 		System.out.println("How much time did you speak on the phone with " + c2 + "? (Input format - hh,mm)");
-		double t2 = scan2.nextDouble(); 
+		double t2 = scan.nextDouble(); 
 		System.out.println("How much time did you speak on the phone with " + c3 + "? (Input format - hh,mm)");
-		double t3 = scan2.nextDouble(); 
-		
+		double t3 = scan.nextDouble(); 
 		double price1 = 2.50;
 		double price2 = 1.05;
 		double price3 = 0.30;
@@ -60,6 +57,7 @@ public class Homework1 {
 		System.out.println("   The cost of talking " + t2 + " hours with the country " + c2 + " at the cost of conversation " + price2 + " - " + a2 + " hryvnias");
 		System.out.println("   The cost of talking " + t3 + " hours with the country " + c3 + " at the cost of conversation " + price3 + " - " + a3 + " hryvnias");
 		System.out.println(" Total cost with three countries - " + (a1 + a2 + a3) + " hryvnias");
+		scan.close();
 	}
 
 }

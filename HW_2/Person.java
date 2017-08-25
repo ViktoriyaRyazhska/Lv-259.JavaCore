@@ -1,5 +1,6 @@
 package home;
 
+import java.util.Calendar;
 import java.util.Scanner;
 
 public class Person {
@@ -32,7 +33,8 @@ public class Person {
 	}
 	
 	public int calculateAge() {
-		return 2017 - birthYear;
+		Calendar calendar = Calendar.getInstance();
+		return calendar.get(Calendar.YEAR) - birthYear;
 	}
 	
 	public void inputInf() {
