@@ -1,4 +1,7 @@
-package second.homework;
+package aven.second.homework;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.Calendar;
 
 public class Person {
@@ -9,7 +12,6 @@ public class Person {
 	//constructors
 	public Person() {}
 	public Person(String name, int birthYear) {
-		super();
 		this.name = name;
 		this.birthYear = birthYear;
 	}
@@ -33,6 +35,22 @@ public class Person {
 	}
 	public void changeName (String name) {
 		this.name = name;
+	}
+	
+	BufferedReader br = new BufferedReader (
+			new InputStreamReader(System.in));
+	
+	public void input () throws IOException {
+		System.out.println("Please type a name:");
+		name = br.readLine();
+		System.out.println("Please type the year of birth:");
+		birthYear = Integer.parseInt(br.readLine());
+	}
+	
+	public void output () throws IOException {
+		System.out.println("Name:" + this.getName());
+		System.out.println("Year of birth:" + this.getBirthYear());
+		System.out.println(" ");
 	}
 		
 }
